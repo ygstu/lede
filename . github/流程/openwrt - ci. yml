@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: OpenWrt-CI
+name:  by编译测试
 
 on:
   push:
